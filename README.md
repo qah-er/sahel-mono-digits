@@ -4,14 +4,14 @@ A modified version of the Sahel font by Saber Rastikerdar with monospaced Persia
 
 # فونت ساحل مونو دیجیتز (Sahel Mono Digits)
 
-**ساحل مونو دیجیتز** یک نسخهٔ ویرایش‌شده از [فونت ساحل](https://github.com/rastikerdar/sahel-font) است که توسط **صابر رستیکردر** طراحی شده بود (روحش شاد ❤️).  
+**ساحل مونو دیجیتز** یک نسخهٔ ویرایش‌شده از [فونت ساحل](https://github.com/rastikerdar/sahel-font) است که توسط **صابر راستی‌کردار** طراحی شده بود (روحش شاد ❤️).  
 
 در این نسخه، تنها **اعداد فارسی (۰۱۲۳۴۵۶۷۸۹)** و **اعداد عربی/کردی (٠١٢٣٤٥٦٧٨٩)** به‌صورت **ثابت‌عرض (Monospaced / Tabular)** طراحی شده‌اند. این تغییر باعث می‌شود که این فونت برای **نمایش زمان، شمارنده‌ها، جداول و داده‌های مالی** بسیار مناسب‌تر باشد.
 
 ---
 
-## ✍️ طراح اصلی فونت
-**صابر رستیکردر** *(Saber Rastikerdar)*  
+## ✍️ توسعه‌دهندهٔ پیشین فونت
+**صابر راستی‌کردار** *(Saber Rastikerdar)*  
 📧 ایمیل: [saber.rastikerdar@gmail.com](mailto:saber.rastikerdar@gmail.com)  
 🔗 گیت‌هاب: [https://github.com/rastikerdar](https://github.com/rastikerdar)
 
