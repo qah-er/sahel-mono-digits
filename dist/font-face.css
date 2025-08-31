@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Sahel Mono Digits";
+  src: url('webfonts/Sahel-Mono-Digits.woff2') format('woff2'),
+       url('webfonts/Sahel-Mono-Digits.woff') format('woff'),
+       url('ttf/Sahel-Mono-Digits.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sahel Mono Digits";
+  src: url('webfonts/Sahel-Mono-Digits-Bold.woff2') format('woff2'),
+       url('webfonts/Sahel-Mono-Digits-Bold.woff') format('woff'),
+       url('ttf/Sahel-Mono-Digits-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sahel Mono Digits";
+  src: url('webfonts/Sahel-Mono-Digits-Light.woff2') format('woff2'),
+       url('webfonts/Sahel-Mono-Digits-Light.woff') format('woff'),
+       url('ttf/Sahel-Mono-Digits-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sahel Mono Digits";
+  src: url('webfonts/Sahel-Mono-Digits-SemiBold.woff2') format('woff2'),
+       url('webfonts/Sahel-Mono-Digits-SemiBold.woff') format('woff'),
+       url('ttf/Sahel-Mono-Digits-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sahel Mono Digits";
+  src: url('webfonts/Sahel-Mono-Digits-Black.woff2') format('woff2'),
+       url('webfonts/Sahel-Mono-Digits-Black.woff') format('woff'),
+       url('ttf/Sahel-Mono-Digits-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}

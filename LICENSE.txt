@@ -1,0 +1,15 @@
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+Copyright (c) 2025 Qaher Marufiazar (this modified version) Based on the original font by Saber Rastikerdar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this font software and associated documentation files (the "Font Software"), to use, study, copy, merge, embed, modify, redistribute, and sell copies of the Font Software, subject to the following conditions:
+
+1. The Font Software, modified or unmodified, cannot be sold by itself.
+
+2. The Font Software cannot be released under any other license.
+
+3. The font name must be changed if modified to avoid confusion with the original.
+
+4. This license must be included with all copies or substantial portions of the Font Software.
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT.

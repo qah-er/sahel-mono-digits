@@ -1,0 +1,23 @@
+{
+  "name": "sahel-mono-digits",
+  "version": "3.4.1",
+  "author": "qah-er",
+  "license": "OFL-1.1",
+  "description": "Monospaced digits font based on Sahel by Qaher Marufiazar",
+  "keywords": [
+    "font",
+    "farsi",
+    "persian",
+    "digits",
+    "monospaced",
+    "kurdish"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qah-er/sahel-mono-digits.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qah-er/sahel-mono-digits/issues"
+  },
+  "homepage": "https://github.com/qah-er/sahel-mono-digits#readme"
+}
